@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-20 11:41:53, I have solved **1** / **1084** problems while **173** are still locked.
+Until 2019-08-20 14:44:18, I have solved **2** / **1084** problems while **173** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 1
+4. Java: 2
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -181,7 +181,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|To Do|To Do|To Do|To Do|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|To Do|To Do|To Do|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|To Do|To Do|To Do|To Do|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/169.%20Majority%20Element/Solution.java)|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|To Do|
