@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-26 16:54:48, I have solved **6** / **1092** problems while **177** are still locked.
+Until 2019-08-26 17:27:55, I have solved **7** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 6
+4. Java: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -340,7 +340,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|To Do|
-|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/Solution.java)|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
