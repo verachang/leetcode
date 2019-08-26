@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-26 17:27:55, I have solved **7** / **1092** problems while **177** are still locked.
+Until 2019-08-26 17:51:39, I have solved **8** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 7
+4. Java: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -382,7 +382,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|To Do|To Do|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/Solution.java)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|To Do|
