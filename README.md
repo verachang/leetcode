@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-29 12:47:42, I have solved **11** / **1092** problems while **177** are still locked.
+Until 2019-08-29 15:35:48, I have solved **12** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 11
+4. Java: 12
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -787,7 +787,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
 |641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Medium|To Do|To Do|To Do|To Do|
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|To Do|To Do|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|To Do|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/Solution.java)|
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
