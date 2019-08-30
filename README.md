@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-08-29 15:35:48, I have solved **12** / **1092** problems while **177** are still locked.
+Until 2019-08-30 11:55:21, I have solved **13** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 12
+4. Java: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -891,7 +891,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |Medium|To Do|To Do|To Do|To Do|
 |927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/) |Hard|To Do|To Do|To Do|To Do|
 |928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|To Do|To Do|To Do|To Do|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/Solution.java)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) |Medium|To Do|To Do|To Do|To Do|
