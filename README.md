@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2019-09-02 14:59:52, I have solved **15** / **1096** problems while **177** are still locked.
+Until 2019-09-02 16:57:47, I have solved **16** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 15
+4. Java: 16
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -34,7 +34,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/Solution.java)|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
-|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/verachang/leetcode/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/Solution.java)|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
